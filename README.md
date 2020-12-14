@@ -1,3 +1,7 @@
-Pulled from --> https://github.com/rimijoker/Fake_Terminal_Resume_Website
+# Github Web Site
 
-WEB SITE --> https://burakugurr.github.io/
+
+| Name | Description                    |
+| ------------- | ------------------------------ |
+| `Pulled & Design`| https://github.com/rimijoker/Fake_Terminal_Resume_Website |
+| `WEB SITE`   | https://burakugurr.github.io/ |
